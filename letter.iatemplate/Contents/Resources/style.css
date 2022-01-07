@@ -10,3 +10,12 @@ h1 {
     font-size: 17px;
     font-weight: 900;
 }
+
+@media print {
+
+    body {
+        margin: 0 3cm;
+    }
+
+}
+
