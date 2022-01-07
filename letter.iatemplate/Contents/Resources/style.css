@@ -18,15 +18,19 @@
 
 * {
 <<<<<<< HEAD
+<<<<<<< HEAD
     font-family: 'Modern', sans-serif;
 =======
     font-family: 'iA Writer Quattro', sans-serif;
 >>>>>>> parent of 332b238 (iA Writer Quattro > Helvetica 17 > 27)
+=======
+    font-family: 'Helvetica', sans-serif;
+>>>>>>> parent of 339f7cb (print 10 > 20pt)
     line-height: var(--line-height);
 }
 
 html {
-    font-size: 17px;
+    font-size: 27px;
 }
 
 body {
@@ -38,7 +42,7 @@ body {
 @media print {
     body {
         margin: 0 3cm;
-        font-size: 20pt;
+        font-size: 10pt;
         font-weight: 400;
     }
     *,
