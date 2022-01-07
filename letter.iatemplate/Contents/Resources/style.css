@@ -17,12 +17,12 @@
 }
 
 * {
-    font-family: 'Helvetica', sans-serif;
+    font-family: 'Modern', sans-serif;
     line-height: var(--line-height);
 }
 
 html {
-    font-size: 27px;
+    font-size: 17px;
 }
 
 body {
@@ -34,7 +34,7 @@ body {
 @media print {
     body {
         margin: 0 3cm;
-        font-size: 10pt;
+        font-size: 20pt;
         font-weight: 400;
     }
     *,
