@@ -5,3 +5,8 @@ body {
     font-family: "Modern", sans-serif;
     font-size: 17px;
 }
+
+h1 {
+    font-size: 17px;
+    font-weight: 900;
+}
