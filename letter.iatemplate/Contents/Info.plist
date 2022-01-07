@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
-	<string>en</string>
+	<string>de</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleIdentifier</key>
-	<string>codes.ulf.letter.iatemplate</string>
+	<string>graublau.letter.iatemplate</string>
 	<key>CFBundleName</key>
-	<string>Letter</string>
+	<string>Letter-graublau</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
@@ -29,8 +29,8 @@
 	<key>IATemplateDescription</key>
 	<string>Letter template</string>
 	<key>IATemplateAuthor</key>
-	<string>Ulf Schneider</string>
+	<string>Christoph Mandl</string>
 	<key>IATemplateAuthorURL</key>
-	<string>https://ulf.codes</string>
+	<string>https://christophmandl.at</string>
 </dict>
 </plist>
