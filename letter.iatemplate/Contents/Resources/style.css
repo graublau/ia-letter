@@ -17,15 +17,7 @@
 }
 
 * {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    font-family: 'Modern', sans-serif;
-=======
     font-family: 'iA Writer Quattro', sans-serif;
->>>>>>> parent of 332b238 (iA Writer Quattro > Helvetica 17 > 27)
-=======
-    font-family: 'Helvetica', sans-serif;
->>>>>>> parent of 339f7cb (print 10 > 20pt)
     line-height: var(--line-height);
 }
 
