@@ -4,6 +4,7 @@ body {
     overflow: hidden;
     font-family: "Modern", sans-serif;
     font-size: 17px;
+    max-width: 600px;
 }
 
 h1 {
@@ -14,7 +15,7 @@ h1 {
 @media print {
 
     body {
-        margin: 0 3cm;
+        margin: 0 5px;
     }
 
 }
