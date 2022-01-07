@@ -17,12 +17,12 @@
 }
 
 * {
-    font-family: 'iA Writer Quattro', sans-serif;
+    font-family: 'Helvetica', sans-serif;
     line-height: var(--line-height);
 }
 
 html {
-    font-size: 17px;
+    font-size: 27px;
 }
 
 body {
